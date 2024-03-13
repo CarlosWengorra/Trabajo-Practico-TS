@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.LibroImpreso = void 0;
-// Implementa la clase LibroImpreso que cumple con la interfaz Libro
+
 class LibroImpreso {
     constructor(titulo, autor) {
         this.titulo = titulo;
